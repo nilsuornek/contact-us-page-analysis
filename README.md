@@ -66,3 +66,4 @@ As a result of this analysis:
 
 **Nilsu**  
 Business Analysis & Software Projects  
+https://medium.com/@orneknilsu4/bir-contact-us-sayfas%C4%B1-ne-kadar-basit-olabilir-18a17cb32497?postPublishedType=initial
